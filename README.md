@@ -1,0 +1,1 @@
+# plugins-pojo-news-ticker
